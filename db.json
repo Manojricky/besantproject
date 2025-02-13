@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "b171",
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "course": "Java Full Stack "
+    },
+    {
+      "id": "8e88",
+      "name": "Preethi",
+      "email": "Preethi@gmail.com",
+      "course": "Data Science"
+    },
+    {
+      "id": "dc78",
+      "name": "yash",
+      "email": "yash@outlook.com",
+      "course": "Python Full Stack "
+    },
+    {
+      "id": "460d",
+      "name": "Mahesh",
+      "email": "Mahesh@gmail.com",
+      "course": "Python Full Stack "
+    },
+    {
+      "id": "ac2a",
+      "name": "Keerthi",
+      "email": "Keerthi@gmail.com",
+      "course": "Data Analy"
+    },
+    {
+      "id": "4547",
+      "name": "poorna",
+      "email": "poorna@gmail.com",
+      "course": "JAVA full Stack "
+    }
+  ]
+}
